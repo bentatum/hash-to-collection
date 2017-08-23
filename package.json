@@ -1,7 +1,7 @@
 {
   "name": "hash-to-collection",
   "description": "convert a hash to a collection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "bentatum <bentatum@me.com>",
   "bugs": {
     "url": "https://github.com/bentatum/hash-to-collection/issues"
